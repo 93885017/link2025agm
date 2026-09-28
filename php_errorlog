@@ -1,0 +1,75 @@
+[21-Jun-2025 17:51:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php:14
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php(14): mysqli_query(NULL, 'SELECT meta_val...')
+#1 /home/customer/www/link2025agmwebcast.com/public_html/index.php(30): HelperClass->checkCurrentSection('ready_page')
+#2 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php on line 14
+[21-Jun-2025 17:53:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php:14
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php(14): mysqli_query(NULL, 'SELECT meta_val...')
+#1 /home/customer/www/link2025agmwebcast.com/public_html/index.php(30): HelperClass->checkCurrentSection('ready_page')
+#2 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php on line 14
+[21-Jun-2025 17:54:09 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php:14
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php(14): mysqli_query(NULL, 'SELECT meta_val...')
+#1 /home/customer/www/link2025agmwebcast.com/public_html/index.php(30): HelperClass->checkCurrentSection('ready_page')
+#2 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php on line 14
+[21-Jun-2025 17:54:50 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php:14
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php(14): mysqli_query(NULL, 'SELECT meta_val...')
+#1 /home/customer/www/link2025agmwebcast.com/public_html/index.php(30): HelperClass->checkCurrentSection('ready_page')
+#2 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php on line 14
+[21-Jun-2025 17:54:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php:14
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php(14): mysqli_query(NULL, 'SELECT meta_val...')
+#1 /home/customer/www/link2025agmwebcast.com/public_html/index.php(30): HelperClass->checkCurrentSection('ready_page')
+#2 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php on line 14
+[21-Jun-2025 17:54:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php:14
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php(14): mysqli_query(NULL, 'SELECT meta_val...')
+#1 /home/customer/www/link2025agmwebcast.com/public_html/index.php(30): HelperClass->checkCurrentSection('ready_page')
+#2 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php on line 14
+[21-Jun-2025 17:54:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php:14
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php(14): mysqli_query(NULL, 'SELECT meta_val...')
+#1 /home/customer/www/link2025agmwebcast.com/public_html/index.php(30): HelperClass->checkCurrentSection('ready_page')
+#2 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php on line 14
+[21-Jun-2025 17:54:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php:14
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php(14): mysqli_query(NULL, 'SELECT meta_val...')
+#1 /home/customer/www/link2025agmwebcast.com/public_html/index.php(30): HelperClass->checkCurrentSection('ready_page')
+#2 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php on line 14
+[21-Jun-2025 17:55:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php:14
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php(14): mysqli_query(NULL, 'SELECT meta_val...')
+#1 /home/customer/www/link2025agmwebcast.com/public_html/index.php(30): HelperClass->checkCurrentSection('ready_page')
+#2 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php on line 14
+[26-Jun-2025 12:46:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php:14
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php(14): mysqli_query(NULL, 'SELECT meta_val...')
+#1 /home/customer/www/link2025agmwebcast.com/public_html/index.php(30): HelperClass->checkCurrentSection('ready_page')
+#2 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/class/HelperClass.php on line 14
+[02-Jul-2025 17:20:10 UTC] PHP Fatal error:  Uncaught TypeError: feof(): Argument #1 ($stream) must be of type resource, bool given in /home/customer/www/link2025agmwebcast.com/public_html/import-data.php:32
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/import-data.php(32): feof(false)
+#1 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/import-data.php on line 32
+[02-Jul-2025 17:55:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '127' for key 'member.PRIMARY' in /home/customer/www/link2025agmwebcast.com/public_html/import-data.php:55
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/import-data.php(55): mysqli_query(Object(mysqli), 'INSERT INTO mem...')
+#1 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/import-data.php on line 55
+[02-Jul-2025 18:37:46 UTC] PHP Fatal error:  Uncaught TypeError: feof(): Argument #1 ($stream) must be of type resource, bool given in /home/customer/www/link2025agmwebcast.com/public_html/import-data.php:33
+Stack trace:
+#0 /home/customer/www/link2025agmwebcast.com/public_html/import-data.php(33): feof(false)
+#1 {main}
+  thrown in /home/customer/www/link2025agmwebcast.com/public_html/import-data.php on line 33
